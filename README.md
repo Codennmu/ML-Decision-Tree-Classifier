@@ -80,8 +80,7 @@ The notebook includes:
 * Correlation heatmap
 
 ## Correlation Heatmap
-
-<img width="700" alt="Correlation Heatmap" src="https://raw.githubusercontent.com/your-username/Decision-Tree-Classification/main/images/correlation_heatmap.png">
+<img width="1204" height="887" alt="corelation heatmap" src="https://github.com/user-attachments/assets/26f969a5-cf05-4650-b340-03a3c4f3f8bd" />
 
 ---
 
@@ -115,7 +114,7 @@ The notebook implements:
 
 ## Full Decision Tree
 
-<img width="700" alt="Decision Tree" src="https://raw.githubusercontent.com/your-username/Decision-Tree-Classification/main/images/full_tree.png">
+<img width="2387" height="987" alt="full decision tree" src="https://github.com/user-attachments/assets/7b67645f-3140-479f-9e04-313943841828" />
 
 ---
 
@@ -132,7 +131,7 @@ The following evaluation metrics are used:
 
 ## Confusion Matrix
 
-<img width="600" alt="Confusion Matrix" src="https://raw.githubusercontent.com/your-username/Decision-Tree-Classification/main/images/confusion_matrix.png">
+<img width="1338" height="493" alt="confusion" src="https://github.com/user-attachments/assets/a366448b-d837-4380-b493-ba97a2b57bea" />
 
 ---
 
